@@ -34,7 +34,7 @@ sudo dnf -y update
 clear
 #Install Favourite Apps
 echo "Installing Favourite Apps"
-sudo dnf -y install google-chrome-stable telegram-desktop discord thunderbird gnome-tweak-tool chrome-gnome-shell gimp gimp-help-en_GB obs-studio audacity lollypop autokey-gtk ckb-next filezilla fish nano cmatrix neofetch openshot blender inkscape rdiff-backup && sudo dnf -y remove rhythmbox
+sudo dnf -y install google-chrome-stable telegram-desktop discord thunderbird gnome-tweak-tool chrome-gnome-shell gnome-shell-extension-dash-to-dock gimp gimp-help-en_GB obs-studio audacity lollypop autokey-gtk ckb-next filezilla fish nano cmatrix neofetch openshot blender inkscape rdiff-backup && sudo dnf -y remove rhythmbox
 sleep 1.5
 sudo dnf -y update
 clear
