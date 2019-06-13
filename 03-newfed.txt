@@ -1,0 +1,27 @@
+#   $$\   $$\                                                 
+#   $$ |  $$ |                                                 
+#   \$$\ $$  |$$$$$$\  $$$$$$$\   $$$$$$\  $$\   $$\  $$$$$$\  
+#    \$$$$  /$$  __$$\ $$  __$$\ $$  __$$\ $$ |  $$ |$$  __$$\ 
+#    $$  $$< $$$$$$$$ |$$ |  $$ |$$$$$$$$ |$$ |  $$ |$$$$$$$$ |
+#   $$  /\$$\$$   ____|$$ |  $$ |$$   ____|$$ |  $$ |$$   ____|
+#   $$ /  $$ \$$$$$$$\ $$ |  $$ |\$$$$$$$\ \$$$$$$$ |\$$$$$$$\ 
+#   \__|  \__|\_______|\__|  \__| \_______| \____$$ | \_______|
+#                                          $$\   $$ |  
+#                                          \$$$$$$  |                              
+#                                           \______/                               
+
+Stuff to configure after newfed.sh script run.
+
+#Enable write cache in Gnome Disks
+
+#Essential Extensions:
+User themes
+Impatience
+Dash to Dock
+Always Zoom Workspaces
+Caffeine
+Print Settings
+
+#Copy fish folder to ~/.config/
+
+#Install Flatpak repo (file in folder)
