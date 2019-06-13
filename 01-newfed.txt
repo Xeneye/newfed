@@ -15,3 +15,5 @@
 Go into software store and enable H.264 codec.
 
 Go into software repositories and enable google-chrome, nvidia driver & steam.
+
+sudo chmod +x 02-newfed.sh 
