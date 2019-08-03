@@ -1,2 +1,2 @@
-# newfed
-Stuff to do after fresh Fedora install
+# newfedg
+Stuff to do after fresh Fedora Workstation (Gnome) install
